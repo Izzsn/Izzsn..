@@ -1,0 +1,200 @@
+body{
+    background-image: url("gambar2.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#div_0{
+    background-image: url("gambar.jpeg");
+    background-size: 500px;
+    width: 500px;
+    height: 500px;
+    margin-left: 33%;
+    border-radius: 10%;
+}
+#div_1{
+    padding-top : 3px ;
+    color: white;
+    margin-left: 38%;
+}
+#div_2{
+    float: left;
+    display: inline-block;
+    margin-left: 18px;
+    font-family: arial;
+    font-size: 20px;
+}
+#Matematika{
+  
+    
+    color:#7fffd4;
+}
+#matematika1{
+    color: #7fffd4;
+    text-decoration: none;
+    
+}
+#matematika1:link{
+    color:black;
+}
+#matematika1:active{
+    color: black;
+}
+#matematika1:hover{
+    color: #13253f;
+}
+
+
+#div_3{
+    margin-left: 30px;
+    display: inline-block;
+    font-family: arial;
+    font-size: 20px;
+    float: left;
+}
+
+#Fisika{
+    color: #7fffd4;
+}
+#fisika1{
+    color: #7fffd4;
+    text-decoration: none;
+    
+}
+#fisika1:link{
+    color:black;
+}
+#fisika1:active{
+    color: black;
+}
+#fisika1:hover{
+    color: #13253f;
+}
+#div_4{
+    
+        margin-left: 30px;
+        display: inline-block;
+        font-family: arial;
+        font-size: 20px;
+        float: left;
+}
+#Kimia{
+    color: #7fffd4;
+}
+#kimia1{
+    color: #7fffd4;
+    text-decoration: none;
+    
+}
+#kimia1:link{
+    color:black;
+}
+#kimia1:active{
+    color: black;
+}
+#kimia1:hover{
+    color: #13253f;
+}
+#div_5{
+    
+    margin-left: 30px;
+    display: inline-block;
+    font-family: arial;
+    font-size: 20px;
+    
+}
+#Biologi{
+    color: #7fffd4;
+}
+#biologi1{
+    color: #7fffd4;
+    text-decoration: none;
+    
+}
+#biologi1:link{
+    color:black;
+}
+#biologi1:active{
+    color: black;
+}
+#biologi1:hover{
+    color: #13253f;
+}
+#div_6{
+    margin-left: 30px;
+    display:inline-block ;
+    font-family: arial;
+    font-size: 20px;
+    float: left;
+}
+#MatematikaMinat{
+  color:#7fffd4;
+
+}
+#MatematikaPeminatan{
+    text-decoration: none ;
+    color:#7fffd4;
+}
+#MatematikaPeminatan:link{
+    color:black;
+}
+#MatematikaPeminatan:active{
+    color: black;
+}
+#MatematikaPeminatan:hover{
+    color: #13253f;
+}
+#div_7{
+    margin-left: 30px;
+    display: inline-block;
+    font-family: arial;
+    font-size: 20px;
+
+}
+#SejarahIndonesia{
+    color:  #7fffd4;
+
+}
+#sejarahindonesia{
+    text-decoration: none ;
+    color: #7fffd4;
+}
+#sejarahindonesia:link{
+    color:black;
+}
+#sejarahindonesia:active{
+    color: black;
+}
+#sejarahindonesia:hover{
+    color: #13253f;
+}
+#div_8{
+    margin-left: 30px;
+    display:inline-block ;
+    font-family: arial;
+    font-size: 20px;
+    float:left;
+}
+#BahasaJerman{
+    color: #7fffd4;
+  
+}
+#bahasajerman{
+    text-decoration: none ;
+    color: #7fffd4;
+}
+#bahasajerman:link{
+    color:black;
+}
+#bahasajerman:active{
+    color: black;
+}
+#bahasajerman:hover{
+    color: #13253f;
+}
+
+
+
+
+
+
+
